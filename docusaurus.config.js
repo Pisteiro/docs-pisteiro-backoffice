@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Pisteiro',
   tagline: 'Pisteiro',
-  url: 'https://pisteiro.github.io/docs-pisteiro-backoffice',
-  baseUrl: 'docs-pisteiro-backoffice/',
+  url: 'https://pisteiro.github.io',
+  baseUrl: '/docs-pisteiro-backoffice/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
