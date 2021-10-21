@@ -9,7 +9,7 @@ const config = {
   title: 'Pisteiro',
   tagline: 'Pisteiro',
   url: 'https://pisteiro.github.io/docs-pisteiro-backoffice',
-  baseUrl: '/',
+  baseUrl: 'docs-pisteiro-backoffice/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
