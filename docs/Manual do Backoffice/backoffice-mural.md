@@ -18,6 +18,12 @@ sidebar_position: 3
 
 - Você acessa a area de gerenciamento de campeonatos
 
+#### CONTROLE DE ACESSO
+
+- Você acessa o menu de gerenciamento de usuários
+    - Usuários: Gerenciamento de usuários.
+    - Funções: Gerenciamento de funções
+
 #### GERENCIAR CAVALOS
 
 - Você acessa a area de gerenciamento de cavalos
