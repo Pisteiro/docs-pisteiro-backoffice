@@ -46,6 +46,10 @@
 
 ![Acesso](/img/backoffice/controle6.png)
 
+### 2. Insira todos os parâmetros
+
+### 3. Clique em "Criar"
+
 ## COMO EDITAR UMA FUNÇÃO?
 
 ### 1. Clique no icone de "Lapis" da função que deseja alterar.
