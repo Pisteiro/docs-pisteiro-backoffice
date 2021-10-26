@@ -8,7 +8,7 @@
 
 ![Campeonato](/img/backoffice/campeonato9.png)
 
-### 3. Clique no botão de "+" em "Cadastrar categoria"
+### 3. Clique em "Cadastrar categoria"
 
 ![Categoria](/img/backoffice/categoria1.png)
 
@@ -30,7 +30,7 @@
 
 > Exemplo: 60(Já com o multiplicador 1) + 1(Multiplicador) x 2(Vezes campeão dos campeões) = 62
 >
->62 é o valor final do cavalo.
+> 62 é o valor final do cavalo.
 
 :::
 
@@ -105,7 +105,7 @@
 
 ![Categoria](/img/backoffice/categoria8.png)
 
-### 2. Clique no icone de "+" em Adicionar cavalo
+### 2. Clique em Adicionar cavalo
 
 ![Categoria](/img/backoffice/categoria10.png)
 
