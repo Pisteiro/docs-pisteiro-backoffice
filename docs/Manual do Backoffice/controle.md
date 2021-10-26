@@ -48,6 +48,8 @@
 
 ### 2. Insira todos os parâmetros
 
+![Acesso](/img/backoffice/controle7.png)
+
 ### 3. Clique em "Criar"
 
 ## COMO EDITAR UMA FUNÇÃO?
