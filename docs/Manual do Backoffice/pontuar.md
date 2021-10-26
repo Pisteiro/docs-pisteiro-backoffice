@@ -61,6 +61,6 @@ OBS: Em caso de empate, o prêmio é dividido entre os ganhadores
 
 ![Pontuação](/img/backoffice/pontuar2.png)
 
-### 6. Clique em enviar
+### 6. Clique em "Enviar"
 
 ![Pontuação](/img/backoffice/pontuar3.png)

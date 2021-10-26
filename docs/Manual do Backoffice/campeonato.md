@@ -50,6 +50,12 @@ Quando clicar em "Campeonatos" no canto superior, abrira a lista de campeonatos 
 
 ## COMO CALCULAR O RANKING DO CAMPEONATO?
 
+:::note OBSERVAÇÕES
+
+A categoria deve estar com Status "Finalizado" e o cadastro de pontuação feito para poder gerar o Ranking da categoria.
+
+:::
+
 ### 1. Clique em Ranking
 
 ![Campeonato](/img/backoffice/campeonato11.png)
