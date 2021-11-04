@@ -1,20 +1,30 @@
+---
+sidebar_position: 3
+---
+
 # CONTROLE DE ACESSO
 
 ## COMO GERENCIAR USUÁRIOS?
 
-### 1. Passe o mouse sobre o botão "Controle de acesso"
+### 1. Clique no item de menu "Controle de acesso"
 
-### 2. Clique em "Usuários"
+### 2. Selecione "Usuários"
 
 ![Acesso](/img/backoffice/controle1.png)
 
 ## COMO CRIAR UM NOVO USUÁRIO?
 
+Para criar um usuário no backoffice é necessário uma etapa fora da aplicação.
+
 ### 1. Clique no botão "Criar usuário"
+
+Na lista de usuários cadastrados, clique no botão "Criar usuário".
 
 ![Acesso](/img/backoffice/controle2.png)
 
 ### 2. Insira os parâmetros
+
+O parâmetro "Ref. Cognito" é gerado em uma aplicação fora da plataforma.
 
 ![Acesso](/img/backoffice/controle3.png)
 
@@ -34,9 +44,9 @@
 
 ## COMO GERENCIAR FUNÇÕES?
 
-### 1. Passe o mouse sobre o botão "Controle de acesso"
+### 1. Clique no item de menu "Controle de acesso"
 
-### 2. Clique em "Funções"
+### 2. Selecione "Funções"
 
 ![Acesso](/img/backoffice/controle1.png)
 
@@ -47,6 +57,8 @@
 ![Acesso](/img/backoffice/controle6.png)
 
 ### 2. Insira todos os parâmetros
+
+O parâmetro _Permissões_ definem o que o usuário com essa função vai poder realizar na plataforma.
 
 ![Acesso](/img/backoffice/controle7.png)
 
