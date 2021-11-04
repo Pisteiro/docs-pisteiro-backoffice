@@ -1,3 +1,7 @@
+---
+sidebar_position: 5
+---
+
 # GERENCIAR CATEGORIA
 
 ## COMO CADASTRAR UMA CATEGORIA?
@@ -109,15 +113,25 @@
 
 ![Categoria](/img/backoffice/categoria10.png)
 
-### 3. Selecione um parâmetro
+### 3. Exibir a lista de cavalos cadastrados
 
+É possivel fazer a busca de um cavalo ou caso prefirir exibir toda a lista de cavalos.
+
+Para selecionar um cavalor: Selecione um parâmetro para busca
 ![Categoria](/img/backoffice/categoria11.png)
 
-### 4. Digite um valor de busca
-
+Digite um valor de busca:
 ![Categoria](/img/backoffice/categoria12.png)
 
-### 5. Clique em "Pesquisar"
+### 4. Clique em "Pesquisar"
+
+Para exibir a lista inteira, clique em "Pesquisar" sem preencher parâmetros de busca.
+
+### 5. Selecionar cavalo na lista
+
+Na lista de cavalos, clique em "Selecionar" na coluna ações.
+
+![Categoria](/img/backoffice/selecionar-cavalo.png)
 
 ### 6. Clique em "Adicionar colete"
 
@@ -128,6 +142,16 @@
 ![Categoria](/img/backoffice/categoria14.png)
 
 ### 8. Clique em "Salvar"
+
+## SALDO INICIAL DOS JOGADORES
+
+Ao adicionar os cavalos na categoria, é exibido uma sugestão para o saldo inicial dos jogadores.
+
+:::note IMPORTANTE
+Para o valor correto, é necessário adicionar primeiro todos os cavalos na categoria. Para editar o valor do saldo inicial dos jogadores, seguir os passos de "Como Editar uma Categoria"
+:::
+
+![Categoria](/img/backoffice/valores-categoria.png)
 
 ## COMO EDITAR UM CAVALO DA CATEGORIA?
 
@@ -151,8 +175,12 @@ A categoria deve estar com Status "Finalizado" e o cadastro de pontuação feito
 
 ### 1. Clique em "Ranking"
 
+Uma tela com a lista de jogadores e times é exibida.
+
 ![Categoria](/img/backoffice/categoria16.png)
 
 ### 2. Clique em "Calcular ranking categoria"
+
+Ao clicar no botão "Calcular ranking categoria" o sistema exibe a pontuação do score de cada jogador e o resultado por posição de cada time.
 
 ![Categoria](/img/backoffice/categoria17.png)

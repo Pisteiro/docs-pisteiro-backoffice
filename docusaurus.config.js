@@ -14,7 +14,7 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'Pisteiro', // Usually your GitHub org/user name.
-  projectName: 'docs-pisteiro', // Usually your repo name.
+  projectName: 'docs-pisteiro-backoffice', // Usually your repo name.
 
   presets: [
     [
@@ -26,7 +26,7 @@ const config = {
           routeBasePath: '/',          
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/Pisteiro/docs-pisteiro',
+          editUrl: 'https://github.com/Pisteiro/docs-pisteiro-backoffice',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -52,8 +52,8 @@ const config = {
             label: 'WiKi',
           },
           {
-            href: 'https://github.com/Pisteiro/docs-pisteiro',
-            label: 'GitHub',
+            href: 'https://admin.pisteiro.com/',
+            label: 'Admin Pisteiro',
             position: 'right',
           },
         ],

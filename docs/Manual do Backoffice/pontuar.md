@@ -1,8 +1,8 @@
+---
+sidebar_position: 7
+---
 
-
-
-
-# PONTUAR COMPETIÇÃO
+# PONTUAR CAVALOS CATEGORIA
 
 :::note COMO FUNCIONA A PONTUAÇÃO?
 
@@ -43,7 +43,9 @@ OBS: Em caso de empate, o prêmio é dividido entre os ganhadores
 
 ## COMO INSERIR A PONTUAÇÃO DOS CAVALOS NO CAMPEONATO?
 
-### 1. Clique em Campeonatos no superior da tela
+### 1. Clique em Campeonatos no menu superior da tela
+
+![Campeonato](/img/backoffice/campeonato-menu.png)
 
 ### 2. Clique no icone de setas em um campeonato
 

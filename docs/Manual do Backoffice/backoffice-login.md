@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ## COMO ACESSAR SUA CONTA ADMINISTRATIVA??
 
-### 1. Acesse: admin.pisteiro.com
+### 1. Acesse o link: _admin.pisteiro.com_
 
 ### 2. Insira seu Email e sua Senha
 

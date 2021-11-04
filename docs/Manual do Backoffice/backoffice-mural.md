@@ -1,72 +1,69 @@
 ---
-sidebar_position: 3
+sidebar_position: 2
 ---
 
 # MURAL ADMINISTRATIVO
 
 ## COMO FUNCIONA O MURAL?
 
-## NAVEGAÇÃO DA PLATAFORMA
+## NAVEGAÇÃO DO MENU
 
 ![Mural](/img/backoffice/mural1.png)
 
-#### HOME
+### HOME
 
 - Você acessa o Mural administrativo
 
-#### CAMPEONATOS
-
-- Você acessa a area de gerenciamento de campeonatos
-
-#### CONTROLE DE ACESSO
+### CONTROLE DE ACESSO
 
 - Você acessa o menu de gerenciamento de usuários
     - Usuários: Gerenciamento de usuários.
     - Funções: Gerenciamento de funções
 
-#### GERENCIAR CAVALOS
+### CAMPEONATOS
 
-- Você acessa a area de gerenciamento de cavalos
+- Você acessa a area de gerenciamento de campeonatos. Nessa área é possível criar campeonatos e gerenciar todos seus itens como: categorias, cavalos nas categorias, pontuação, status das categorias (iniciado, finalizado, fechado e futuro), ststus do campeonato (iniciado, finalizado, ativo e futuro)...
 
-#### GERENCIAR PONTUAÇÕES
+### GERENCIAR CAVALOS
 
-- Você acessa a area de gerenciamento de pontuações dos campeonatos
+- Você acessa a area de gerenciamento de cavalos. Nessa área é possível cadastrar e editar os cavalos na plataforma.
 
-## COMPOSIÇÃO DO MURAL
+
+## INDICADORES DO MURAL
 
 ![Mural](/img/backoffice/mural2.png)
 
-#### TOTAL DE PALPITES
+### TOTAL DE PALPITES
 
-- Area onde sera mostrada o total de palpites feito pelos jogadores do Pisteiro
+- Indicador exibe o total de palpites ou times criados pelos jogadores da plataforma Pisteiro.
 
-#### NUMERO DE USUARIOS
+### NUMERO DE USUARIOS
 
-- Area onde sera mostrado o numero de usuários cadastrados no Pisteiro
+- Indicador exibe o numero de usuários cadastrados na plataforma Pisteiro.
 
-#### CAVALOS REGISTRADOS
+### CAVALOS REGISTRADOS
 
-- Area onde sera mostrado o numero de cavalos cadastrados no Pisteiro
+- Indicador exibe o numero de cavalos cadastrados na plataforma Pisteiro.
 
-#### TOTAL DE CATEGORIAS
+### TOTAL DE CATEGORIAS
 
-- Area onde sera mostrado o numero de categorias cadastradas no Pisteiro
+- Indicador exibe o numero de categorias cadastradas na plataforma Pisteiro.
 
 ## GRAFICOS
 
-#### GRÁFICO DE PALPITES
+### GRÁFICO DE PALPITES
 
 ![Mural](/img/backoffice/mural3.png)
 
 - O gráfico mostra o numero de palpites feitos pelos jogadores do Pisteiro de acordo com o tempo
 
-#### GRÁFICO DE STATUS DO CAMPEONATO
+### GRÁFICO DE STATUS DO CAMPEONATO
 
 - O gráfico mostra a comparação do numero de competições Aguardando, Ativas e Concluidas
 
 ![Mural](/img/backoffice/mural4.png)
 
-#### FILTRO DE CAMPEONATOS
+### FILTRO DE CAMPEONATOS
 
 ![Mural](/img/backoffice/mural5.png)
 

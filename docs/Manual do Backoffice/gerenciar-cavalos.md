@@ -1,3 +1,7 @@
+---
+sidebar_position: 6
+---
+
 # GERENCIAR CAVALOS
 
 :::note COMO É GERADO O VALOR DO CAVALO?
@@ -24,7 +28,7 @@ O valor base de todo cavalo é **50**, mas muda de acordo com o numero de vezes 
 
 ## COMO ACESSAR A LISTA DE CAVALOS?
 
-### 1. Acessar a página "gerenciar cavalos", localizada no menu superior da plataforma: 
+### 1. Acessar a página "Gerenciar Cavalos", localizada no menu superior da plataforma: 
 
 ![Login](/img/backoffice/home.png)
 
