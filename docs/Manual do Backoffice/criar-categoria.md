@@ -6,7 +6,7 @@ sidebar_position: 5
 
 ## COMO CADASTRAR UMA CATEGORIA?
 
-### 1. Acesse a tela de campeonato
+### 1. Acesse a tela de EVENTO
 
 ### 2. Clique no icone de setas no campeonato que deseja cadastrar uma categoria
 
@@ -20,56 +20,34 @@ sidebar_position: 5
 
 ![Categoria](/img/backoffice/categoria2.png)
 
-:::note VALOR DO CAVALO
-
-- Valor base do cavalo: É o valor minimo que um cavalo pode valer
-
-> Exemplo: 50
-
-- Modificador 1 do valor: É o multiplicador de valor do cavalo sobre o numero de vezes que ele foi campeão nacional, geralmente é 5.
-
-> Exemplo: 50 + 5(Multiplicador) x 2(Vezes campeão nacional) = 60
-
-- Modificador 2 do valor: É o multiplicador de valor do cavalo sobre o numero de vezes que foi campeão dos campeões nacional ou regional, geralmente é 1.
-
-> Exemplo: 60(Já com o multiplicador 1) + 1(Multiplicador) x 2(Vezes campeão dos campeões) = 62
->
-> 62 é o valor final do cavalo.
-
-:::
-
-### 5. Adicione os pontos por posição e pontos bônus
-
-![Categoria](/img/backoffice/categoria3.png)
-
 :::note PONTOS
 
 - Pontos por posição:
     - Na ordem em que forem adicionados, é quanto o usuário vai pontuar de acordo com a posição.
 
-> Exemplo: 
-
 | POSIÇÃO | PONTOS |
 | ------- | ------ |
-| 1 | 20 |
-| 2 | 17 |
-| 3 | 14 |
-| 4 | 12 |
-| 5 | 10 |
+| 1 | 200 |
+| 2 | 170 |
+| 3 | 140 |
+| 4 | 120 |
+| 5 | 100 |
+| 6 | 80  |
+| 7 | 70  |
 
 - Pontos bônus:
     - Pontos a mais que o usuário pode fazer com base no numero de acertos.
-
-> Exemplo:
 
 | ACERTOU | PONTOS BONÛS |
 | ------- | ------------ |
 | 0 | 0 |
 | 1 | 0 |
 | 2 | 0 |
-| 3 | 1 |
-| 4 | 3 |
-| 5 | 7 |
+| 3 | 50 |
+| 4 | 100 |
+| 5 | 150 |
+| 6 | 200 |
+| 7 | 250 |
 
 :::
 
@@ -101,6 +79,12 @@ sidebar_position: 5
 
 ![Categoria](/img/backoffice/categoria9.png)
 
+- Caso o status seja ''Fechado'', aparecerá 3 botões:
+    - Pontuação: Para inserir a colocação dos cavalos da categoria.
+    - Ranking: Para gerar a colocação dos usuários após a pontuação ser calculada.
+    - Abrir temporariamente: O usuário do backoffice define um tempo para a categoria ser aberta temporariamente, assim que o tempo chega ao fim, a categoria volta para o status ''fechado'' automaticamente.
+
+
 ### 3. Clique em "Salvar"
 
 ## COMO ADICIONAR UM CAVALO NA CATEGORIA?
@@ -117,11 +101,8 @@ sidebar_position: 5
 
 É possivel fazer a busca de um cavalo ou caso prefirir exibir toda a lista de cavalos.
 
-Para selecionar um cavalor: Selecione um parâmetro para busca
+Para selecionar um cavalor: Selecione um parâmetro e um valor para a busca.
 ![Categoria](/img/backoffice/categoria11.png)
-
-Digite um valor de busca:
-![Categoria](/img/backoffice/categoria12.png)
 
 ### 4. Clique em "Pesquisar"
 
@@ -142,16 +123,6 @@ Na lista de cavalos, clique em "Selecionar" na coluna ações.
 ![Categoria](/img/backoffice/categoria14.png)
 
 ### 8. Clique em "Salvar"
-
-## SALDO INICIAL DOS JOGADORES
-
-Ao adicionar os cavalos na categoria, é exibido uma sugestão para o saldo inicial dos jogadores.
-
-:::note IMPORTANTE
-Para o valor correto, é necessário adicionar primeiro todos os cavalos na categoria. Para editar o valor do saldo inicial dos jogadores, seguir os passos de "Como Editar uma Categoria"
-:::
-
-![Categoria](/img/backoffice/valores-categoria.png)
 
 ## COMO EDITAR UM CAVALO DA CATEGORIA?
 
