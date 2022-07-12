@@ -84,6 +84,8 @@ sidebar_position: 5
     - Ranking: Para gerar a colocação dos usuários após a pontuação ser calculada.
     - Abrir temporariamente: O usuário do backoffice define um tempo para a categoria ser aberta temporariamente, assim que o tempo chega ao fim, a categoria volta para o status ''fechado'' automaticamente.
 
+![Categoria](/img/backoffice/temporariamente.png)
+
 
 ### 3. Clique em "Salvar"
 
