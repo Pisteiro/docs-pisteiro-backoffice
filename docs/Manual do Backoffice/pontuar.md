@@ -64,7 +64,7 @@ OBS: O desempate é decidido com base na data e no horario que o usuário escolh
 
 ![Pontuação](/img/backoffice/pontuar1.png)
 
-### 5. Insira a colocação dos cavalos
+### 5. Insira a pontuação dos cavalos
 
 ![Pontuação](/img/backoffice/pontuar2.png)
 

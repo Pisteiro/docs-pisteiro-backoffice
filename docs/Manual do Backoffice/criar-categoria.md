@@ -8,7 +8,7 @@ sidebar_position: 5
 
 ### 1. Acesse a tela de EVENTO
 
-### 2. Clique no icone de setas no campeonato que deseja cadastrar uma categoria
+### 2. Clique no icone de setas no evento que deseja cadastrar uma categoria
 
 ![Campeonato](/img/backoffice/campeonato9.png)
 

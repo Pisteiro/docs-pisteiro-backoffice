@@ -6,9 +6,9 @@ sidebar_position: 8
 
 ## COMO ACESSAR A LISTA DE CAVALOS?
 
-### 1. Acessar a página "Gerenciar Cavalos", localizada no menu superior da plataforma: 
+### 1. Acessar a página "Cavalos", localizada no menu superior da plataforma: 
 
-![Login](/img/backoffice/home.png)
+
 
 ## COMO CADASTRAR UM NOVO CAVALO?
 
@@ -22,8 +22,6 @@ sidebar_position: 8
 
 ### 3. Clique em "Salvar"
 
-![Login](/img/backoffice/cavalo3.png)
-
 ## COMO EDITAR UM CAVALO?
 
 ### 1. Clique no icone de lapis no cavalo que deseja editar
@@ -35,5 +33,3 @@ sidebar_position: 8
 ![Login](/img/backoffice/cavalo5.png)
 
 ### 3. Clique em "Salvar" 
-
-![Login](/img/backoffice/cavalo6.png)
