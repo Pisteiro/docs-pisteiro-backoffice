@@ -4,67 +4,77 @@ sidebar_position: 2
 
 # MURAL ADMINISTRATIVO
 
+![Mural](/img/backoffice/mural1.png)
+
 ## COMO FUNCIONA O MURAL?
 
 ## NAVEGAÇÃO DO MENU
 
-![Mural](/img/backoffice/mural1.png)
-
-### HOME
+### MURAL
 
 - Você acessa o Mural administrativo
 
+### RANKING GERAL
+
+- Você calcula:
+    - O Ranking Geral dos jogadores
+    - O Ranking Geral da modalidade **Marcha batida**
+    - O Ranking Geral da modalidade **Marcha picada**
+
+### EVENTOS
+
+- Você acessa a area de gerenciamento de eventos. Nessa área é possível criar eventos e gerenciar todos seus itens como: categorias, cavalos nas categorias, pontuação, status das categorias e status do evento.
+
+### LIGAS
+
+- Você acessa a area de gerenciamento de ligas. Nesta area é possivel gerenciar as ligas criadas pelos jogadores caso as mesmas não estejam de acordo com as normas ou estejam influenciando na conduta dos usuários, podendo ser editadas ou excluidas.
+
+### CAVALOS
+
+- Você acessa a area de gerenciamento de cavalos. Nessa área é possível cadastrar, editar e deletar os cavalos na plataforma.
+
+### JOGADORES
+
+- Nesta area é possivel verificar todos os usuários cadastrados no pisteiro e gerencia-los, podendo ter as informações editadas ou ter a conta excluida.
+
 ### CONTROLE DE ACESSO
 
-- Você acessa o menu de gerenciamento de usuários
-    - Usuários: Gerenciamento de usuários.
-    - Funções: Gerenciamento de funções
-
-### CAMPEONATOS
-
-- Você acessa a area de gerenciamento de campeonatos. Nessa área é possível criar campeonatos e gerenciar todos seus itens como: categorias, cavalos nas categorias, pontuação, status das categorias (iniciado, finalizado, fechado e futuro), ststus do campeonato (iniciado, finalizado, ativo e futuro)...
-
-### GERENCIAR CAVALOS
-
-- Você acessa a area de gerenciamento de cavalos. Nessa área é possível cadastrar e editar os cavalos na plataforma.
-
+- Você acessa o menu de gerenciamento de usuários do backoffice
+    - Usuários: Gerenciamento de usuários do backoffice.
+    - Funções: Gerenciamento de funções e permissões.
 
 ## INDICADORES DO MURAL
 
-![Mural](/img/backoffice/mural2.png)
-
-### TOTAL DE PALPITES
-
-- Indicador exibe o total de palpites ou times criados pelos jogadores da plataforma Pisteiro.
-
-### NUMERO DE USUARIOS
+### NUMERO DE JOGADORES
 
 - Indicador exibe o numero de usuários cadastrados na plataforma Pisteiro.
 
-### CAVALOS REGISTRADOS
+### NUMERO DE JOGADORES PREMIUM (BRUTAL)
 
-- Indicador exibe o numero de cavalos cadastrados na plataforma Pisteiro.
+- Indicador exibe o numero de usuários cadastrados na plataforma Pisteiro com o Plano Brutal.
 
-### TOTAL DE CATEGORIAS
+### FATURAMENTO
 
-- Indicador exibe o numero de categorias cadastradas na plataforma Pisteiro.
+- Indicador exibe o total arrecadado de usuários que solicitaram o plano Brutal.
+
+### RECEITA PARA CARIDADE
+
+- Indicador exibe o total arrecadado que será destinado a projetos de caridade.
+
+### NUMERO DE LIGAS ATIVAS
+
+- Indicador exibe o numero total de ligas ativas no momento.
 
 ## GRAFICOS
 
-### GRÁFICO DE PALPITES
+### GRÁFICO DE JOGADORES X JOGADORES PREMIUM (BRUTAL)
 
-![Mural](/img/backoffice/mural3.png)
+- O gráfico mostra a comparação de usuários com plano gratuito e plano brutal.
 
-- O gráfico mostra o numero de palpites feitos pelos jogadores do Pisteiro de acordo com o tempo
+### GRÁFICO DE STATUS DO EVENTO
 
-### GRÁFICO DE STATUS DO CAMPEONATO
-
-- O gráfico mostra a comparação do numero de competições Aguardando, Ativas e Concluidas
-
-![Mural](/img/backoffice/mural4.png)
+- O gráfico mostra a comparação do numero de eventos Aguardando, Ativas e Concluidas.
 
 ### FILTRO DE CAMPEONATOS
 
-![Mural](/img/backoffice/mural5.png)
-
-- Quando você selecionar um ou mais status, a area mostrara as competições com os status equivalentes.
+- O usuário poderá filtrar os eventos e seus respectivos status para ter uma visão geral.

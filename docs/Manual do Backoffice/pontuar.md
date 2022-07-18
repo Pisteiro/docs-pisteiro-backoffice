@@ -1,14 +1,14 @@
 ---
-sidebar_position: 7
+sidebar_position: 6
 ---
 
 # PONTUAR CAVALOS CATEGORIA
 
 :::note COMO FUNCIONA A PONTUAÇÃO?
 
-Com base nos cavalos que você selecionou, é feita uma comparação com os ganhadores da competição, você pontua somente se você acertar a posição do Cavalo na categoria.
+Com base nos cavalos que você selecionou, é feita uma comparação com os ganhadores da categoria, você pontua somente se você acertar a posição do Cavalo.
 
-Ganha quem acertar mais colocações durante as categorias, no final da competição é feita a somatória de pontos e é gerado os pontos e o Ranking, quem fizer mais pontos é o ganhador!
+Ganha quem acertar mais colocações durante as categorias, no final do evento é feita a somatória e é gerado os pontos e o Ranking, quanto mais pontos fizer, mais alto ficara no Ranking (caso seja um usuário Brutal)
 
 **SISTEMA DE PONTOS:**
 
@@ -18,12 +18,13 @@ Se você acertou as seguintes posições, você ganha os seguintes pontos:
 
 | POSIÇÃO | PONTOS |
 | ------- | ------ |
-| 1 | 20 |
-| 2 | 17 |
-| 3 | 14 |
-| 4 | 12 |
-| 5 | 10 |
-| =<6 | 0 |
+| 1 | 200 |
+| 2 | 170 |
+| 3 | 140 |
+| 4 | 120 |
+| 5 | 100 |
+| 6 | 80  |
+| 7 | 70  |
 
 
 Caso o usuário tenha acertado 3 cavalos ou mais, ele recebera um bonûs de acordo com o numero de acertos.
@@ -33,19 +34,19 @@ Caso o usuário tenha acertado 3 cavalos ou mais, ele recebera um bonûs de acor
 | 0 | 0 |
 | 1 | 0 |
 | 2 | 0 |
-| 3 | 1 |
-| 4 | 3 |
-| 5 | 7 |
+| 3 | 50 |
+| 4 | 100 |
+| 5 | 150 |
+| 6 | 200 |
+| 7 | 250 |
 
-OBS: Em caso de empate, o prêmio é dividido entre os ganhadores
+OBS: O desempate é decidido com base na data e no horario que o usuário escolher o time, o usuário que escolher o time antes é o vencedor da disputa.
 
 :::
 
-## COMO INSERIR A PONTUAÇÃO DOS CAVALOS NO CAMPEONATO?
+## COMO INSERIR A PONTUAÇÃO DOS CAVALOS NO EVENTO?
 
-### 1. Clique em Campeonatos no menu superior da tela
-
-![Campeonato](/img/backoffice/campeonato-menu.png)
+### 1. Clique em Eventos no menu superior da tela
 
 ### 2. Clique no icone de setas em um campeonato
 
@@ -56,6 +57,10 @@ OBS: Em caso de empate, o prêmio é dividido entre os ganhadores
 ![Categoria](/img/backoffice/categoria8.png)
 
 ### 4. Clique em "Pontuação"
+
+:::note O usuário só consegue inserir a pontuação caso o status da categoria esteja como ''Fechado'' ou ''Finalizado''
+
+:::
 
 ![Pontuação](/img/backoffice/pontuar1.png)
 
