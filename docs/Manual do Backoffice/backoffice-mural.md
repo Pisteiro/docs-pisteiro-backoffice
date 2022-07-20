@@ -57,24 +57,12 @@ sidebar_position: 2
 
 - Indicador exibe o total arrecadado de usuários que solicitaram o plano Brutal.
 
-### RECEITA PARA CARIDADE
+### NUMERO DE LIGAS FINALIZADAS
 
-- Indicador exibe o total arrecadado que será destinado a projetos de caridade.
-
-### NUMERO DE LIGAS ATIVAS
-
-- Indicador exibe o numero total de ligas ativas no momento.
+- Indicador exibe o numero total de ligas FINALIZADAS no momento.
 
 ## GRAFICOS
 
-### GRÁFICO DE JOGADORES X JOGADORES PREMIUM (BRUTAL)
+### GRÁFICO DE STATUS DAS LIGAS
 
-- O gráfico mostra a comparação de usuários com plano gratuito e plano brutal.
-
-### GRÁFICO DE STATUS DO EVENTO
-
-- O gráfico mostra a comparação do numero de eventos Aguardando, Ativas e Concluidas.
-
-### FILTRO DE CAMPEONATOS
-
-- O usuário poderá filtrar os eventos e seus respectivos status para ter uma visão geral.
+- O gráfico mostra a comparação do numero de ligas Aguardando, Ativas e Concluidas.

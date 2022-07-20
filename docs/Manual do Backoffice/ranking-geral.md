@@ -2,49 +2,84 @@
 sidebar_position: 3
 ---
 
-# RANKING GERAL
+# RANKINGS
 
-O **Ranking Geral** é dividido em 3 partes:
+## COMO CALCULAR OS RANKINGS?
 
-- O Ranking Geral dos jogadores
-    - Ranking Geral dos jogadores Brutal que participaram dos eventos do Pisteiro.
-- O Ranking Geral da modalidade **Marcha batida**
-    - Ranking Geral dos jogadores Brutal que participaram dos eventos de Marcha batida.
-- O Ranking Geral da modalidade **Marcha picada**
-    - Ranking Geral dos jogadores Brutal que participaram dos eventos de Marcha picada.
+### 1. GERAR A PONTUAÇÃO E O RANKING DA CATEGORIA
 
-## COMO CALCULAR OS RANKINGS GERAIS?
+#### A. ACESSE A CATEGORIA QUE DESEJA INSERIR A PONTUAÇÃO.
 
-### 1. Clique em Calcular Ranking Geral
+:::note OBSERVAÇÃO
 
-:::note ATENÇÃO
-
-Para gerar o Ranking Geral, é necessario gerar o Ranking de ao menos uma liga paga.
+A categoria deve estar no status ''FECHADO''
 
 :::
+
+#### B. CLIQUE EM ''PONTUAÇÃO''
+
+![Campeonato](/img/backoffice/ranking1.png)
+
+#### C. INSIRA AS PONTUAÇÕES DE ACORDO COM A COLOCAÇÃO DOS CAVALOS NA CATEGORIA
+
+![Campeonato](/img/backoffice/ranking2.png)
+
+#### D. CLIQUE EM ''ENVIAR'' APÓS INSERIR TODA A PONTUAÇÃO
+
+![Campeonato](/img/backoffice/ranking3.png)
+
+#### E. CLIQUE EM ''VER CATEGORIA''
+
+![Campeonato](/img/backoffice/ranking4.png)
+
+#### F. CLIQUE EM ''RANKING''
+
+![Campeonato](/img/backoffice/ranking5.png)
+
+#### G. CLIQUE EM ''CALCULAR RANKING DA CATEGORIA''
+
+![Campeonato](/img/backoffice/ranking6.png)
+
+#### H. MUDE O STATUS DA CATEGORIA PARA ''FINALIZADO''
+
+### 2. CALCULAR O RANKING DAS LIGAS
+
+#### A. LOCALIZAR AS LIGAS COM AS CATEGORIAS FINALIZADAS
+
+#### B. CLIQUE NO ICONE DE SETA, NA LIGA QUE DESEJA GERAR O RANKING
+
+![Campeonato](/img/backoffice/ranking7.png)
+
+#### C. CLIQUE EM ''VER RANKING DA LIGA''
+
+![Campeonato](/img/backoffice/ranking8.png)
+
+#### D. CLIQUE EM ''CALCULAR RANKING DA LIGA''
+
+![Campeonato](/img/backoffice/ranking9.png)
+
+### 3. CALCULAR O RANKING DOS EVENTOS
+
+#### A. ACESSE O EVENTO QUE DESEJA GERAR O RANKING
+
+#### B. CLIQUE EM ''RANKING''
+
+![Campeonato](/img/backoffice/ranking10.png)
+
+#### C. CLIQUE EM ''CALCULAR RANKING DO EVENTO''
+
+![Campeonato](/img/backoffice/ranking11.png)
+
+### 4. CALCULAR O RANKING DAS MODALIDADES
+
+#### A. ACESSE A PAGINA DE RANKING GERAL
+
+#### B. CLIQUE EM ''CALCULAR RANKING DA MODALIDADE''
+
+![Campeonato](/img/backoffice/ranking12.png)
+
+### 5. CALCULAR O RANKING GERAL
+
+#### A. CLIQUE EM ''CALCULAR RANKING GERAL''
 
 ![Campeonato](/img/backoffice/RankingGeral.png)
-
-## COMO CALCULAR O RANKING GERAL DA MARCHA BATIDA?
-
-### 1. Clique em Calcular Ranking da modalidade
-
-:::note ATENÇÃO
-
-Para gerar o Ranking Geral da Marcha batida, é necessario gerar o Ranking de ao menos uma liga paga de um dos eventos de marcha batida.
-
-:::
-
-![Campeonato](/img/backoffice/RankingBatida.png)
-
-## COMO CALCULAR O RANKING GERAL DA MARCHA PICADA?
-
-### 1. Clique em Calcular Ranking da modalidade
-
-:::note ATENÇÃO
-
-Para gerar o Ranking Geral da Marcha picada, é necessario gerar o Ranking de ao menos uma liga paga de um dos eventos de marcha picada.
-
-:::
-
-![Campeonato](/img/backoffice/RankingPicada.png)
